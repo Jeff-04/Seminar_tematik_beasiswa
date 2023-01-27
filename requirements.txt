@@ -3,3 +3,4 @@ numpy
 pandas
 datetime
 streamlit-option-menu
+scikit-learn
