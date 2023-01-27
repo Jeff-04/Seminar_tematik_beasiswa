@@ -29,7 +29,7 @@ hide_streamlit_style = """
 page_bg_img = """
 <style>
 [class="block-container css-18e3th9 egzxvld2"] {
-background: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.JnaRL8rZrlnm9B6OV3m-KgHaCl%26pid%3DApi&f=1&ipt=74c32f4edd6e84f1776eb0782d25d17cca120e20b6055125fcd7db08195197d5&ipo=images");
+background: url("./Images/background.png");
 height: 100%;
 width: 100%;
 background-size: cover;
