@@ -41,7 +41,7 @@ def add_bg_from_local(image_file):
     """,
     unsafe_allow_html=True
     )
-add_bg_from_local('Images/background.png')    
+add_bg_from_local('Images/background_jpg.jpg')    
    
 page_bg_img = """
 <style>
