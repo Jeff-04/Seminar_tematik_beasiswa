@@ -29,7 +29,7 @@ hide_streamlit_style = """
 page_bg_img = """
 <style>
 [class="block-container css-18e3th9 egzxvld2"] {
-background: url("./Images/background.png");
+background-image: url("./Images/background.png");
 height: 100%;
 width: 100%;
 background-size: cover;
