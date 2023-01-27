@@ -25,7 +25,7 @@ hide_streamlit_style = """
             footer {visibility: hidden;}
             </style>
             """
-# st.markdown(hide_streamlit_style, unsafe_allow_html=True)
+st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
 def add_bg_from_local(image_file):
     with open(image_file, "rb") as image_file:
