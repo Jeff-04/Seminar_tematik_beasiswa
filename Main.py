@@ -29,7 +29,7 @@ hide_streamlit_style = """
 page_bg_img = """
 <style>
 [class="block-container css-18e3th9 egzxvld2"] {
-background: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.studentresearchfoundation.org%2Fwp-content%2Fuploads%2F2017%2F10%2Fscholarshipbackground.png&f=1&nofb=1&ipt=0f685a5f23f0727470379ecb2688131d01340cb38ba1cb2376090f0b8531bf9e&ipo=images");
+background: url("Images/background.png");
 height: 100%;
 width: 100%;
 background-size: cover;
