@@ -439,7 +439,7 @@ def sistem_svm(df, df2):
     data = ['Rentan Miskin', 'Miskin', 'Normal']
     df = df.loc[df['Data Dinas Sosial'] > 0]
     df2 = df2.loc[df2['Data Dinas Sosial'].isin(data)]
-    loaded_model = pickle.load(open('model_beasiswa_svm.pkl', 'rb'))
+    loaded_model = pickle.load(open('/app/seminar_tematik_beasiswa/model_beasiswa_svm.pkl', 'rb'))
     list_svm = []
     for i in range(len(df)):
         data = df.iloc[i, 1:].values
